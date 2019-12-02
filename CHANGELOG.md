@@ -11,6 +11,7 @@ Status: Available for use
 
 ## [Unreleased]
 ### Changed
+- Strip symbols from linux binary in release build
 
 ### Added
 
